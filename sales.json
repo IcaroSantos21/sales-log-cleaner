@@ -1,0 +1,44 @@
+[
+    {
+        "id_pedido": 101,
+        "data": "2023-10-01",
+        "cliente": "  João Silva  ",
+        "valor": 150.50,
+        "status": "Pago"
+    },
+    {
+        "id_pedido": 102,
+        "data": "02/10/2023",
+        "cliente": "Maria Souza",
+        "valor": 200.00,
+        "status": "Pendente"
+    },
+    {
+        "id_pedido": 101,
+        "data": "2023-10-01",
+        "cliente": "  João Silva  ",
+        "valor": 150.50,
+        "status": "Pago"
+    },
+    {
+        "id_pedido": 103,
+        "data": "2023/10/03",
+        "cliente": "Ricardo Santos",
+        "valor": 350.00,
+        "status": "Pago"
+    },
+    {
+        "id_pedido": 104,
+        "data": "04-10-2023",
+        "cliente": "Ana Oliveira   ",
+        "valor": 50.00,
+        "status": "Cancelado"
+    },
+    {
+        "id_pedido": 105,
+        "data": "2023-10-05",
+        "cliente": "Roberto Carlos",
+        "valor": 120.75,
+        "status": "Pago"
+    }
+]
